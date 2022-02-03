@@ -1,0 +1,12 @@
+package com.SeleniumProject.POMTests;
+
+import org.testng.annotations.Test;
+
+public class LoginTC_POM {
+
+	@Test
+	public void login()
+	{
+		
+	}
+}

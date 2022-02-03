@@ -1,0 +1,10 @@
+package com.SeleniumProject.Pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class AdminHomePage {
+
+	@FindBy(linkText = "Admin")
+	WebElement admin;
+}

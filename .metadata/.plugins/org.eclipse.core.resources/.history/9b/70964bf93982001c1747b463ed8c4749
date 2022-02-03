@@ -1,0 +1,12 @@
+package gridExamples;
+
+import org.testng.annotations.Test;
+
+public class GridEg1 {
+
+	@Test
+	public void test1()
+	{
+		
+	}
+}
